@@ -46,7 +46,8 @@
 
 ## 下载与使用
 
-1. 到 [**Releases**](../../releases/latest) 下载 `MC实例数据转移工具.exe`
+1. 到 [**Releases**](../../releases/latest) 下载 `MCInstanceTransfer-v1.1.exe`
+   （下载名是英文，运行时窗口标题和界面都是中文）
 2. 双击运行（免安装、无需 Python 环境）
 3. 按界面三个按钮走：
 
